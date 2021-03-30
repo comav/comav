@@ -2,7 +2,8 @@
 
 I'm 15 and I'm learning Javascript
 
-![comav's GitHub stats](https://github-readme-stats.vercel.app/api?username=comav)
+![Overview](https://raw.githubusercontent.com/comav/stats/4c5c6b33cd8c747f425e358b7b633027070f5dee/generated/overview.svg)
+![Languages](https://raw.githubusercontent.com/comav/stats/4c5c6b33cd8c747f425e358b7b633027070f5dee/generated/languages.svg)
 
 ### Where to find me
 <a href="https://discord.com/channels/@me/comav/">
