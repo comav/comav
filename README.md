@@ -2,8 +2,8 @@
 
 I'm 15 and I'm learning JS and C++.
 
-![Overview](https://raw.githubusercontent.com/comav/stats/master/generated/overview.svg)
-![Languages](https://raw.githubusercontent.com/comav/stats/master/generated/languages.svg)
+![Overview](https://raw.githubusercontent.com/comav/stats/blob/master/generated/overview.svg)
+![Languages](https://raw.githubusercontent.com/comav/stats/blob/master/generated/languages.svg)
 
 ### Where to find me
 <div styles="display: flex; flex-direction: row">
