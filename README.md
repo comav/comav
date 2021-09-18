@@ -1,6 +1,6 @@
 ### Hi there and welcome to my GitHub page!👋
 
-I'm 15 and I'm learning JS and C++.
+I'm learning JS and C++.
 
 ![Overview](https://github.com/comav/stats/blob/master/generated/overview.svg)
 ![Languages](https://github.com/comav/stats/blob/master/generated/languages.svg)
