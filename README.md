@@ -13,7 +13,7 @@ I'm learning JS and C++.
 	<a href="https://twitter.com/comav_v5x">
 		<img src = "https://img.shields.io/badge/twitter-black?style=for-the-badge&logo=twitter">
 	</a>
-	<a href="https://t.me/Pogromist39">
+	<a href="https://t.me/pfxel">
 		<img src = "https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram">
 	</a>
 </div>
