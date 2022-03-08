@@ -1,6 +1,6 @@
 ### Hi there and welcome to my GitHub page!👋
 
-I'm learning JS🤩
+I'm learning JS🤩\n
 Creating new projects with an abnormal speed😅
 
 ![Overview](https://github.com/comav/stats/blob/master/generated/overview.svg)
