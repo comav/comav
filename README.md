@@ -12,8 +12,8 @@ Creating new projects with an abnormal speed😅
 	<a href="https://discord.com/channels/@me/horny_adepti/">
 		<img src = "https://img.shields.io/badge/-Discord-%23000000?style=for-the-badge&logo=discord">
 	</a>
-	<a href="https://twitter.com/pfx3l">
-		<img src = "https://img.shields.io/badge/twitter-black?style=for-the-badge&logo=twitter">
+	<a href="https://fosstodon.org/web/@comaq">
+		<img src = "https://img.shields.io/badge/mastodon-black?style=for-the-badge&logo=mastodon">
 	</a>
 	<a href="https://t.me/pfxel">
 		<img src = "https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram">
